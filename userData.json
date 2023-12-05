@@ -1,0 +1,35 @@
+{
+    "usersData": [
+      {
+        "first_name": "Rahul",
+        "last_name": "diwedi",
+        "email": "rahul@example.com",
+        "password": "c74d97b01eae257e44aa9d5bade97baf" 
+      },
+      {
+        "first_name": "sanjana",
+        "last_name": "wedi",
+        "email": "sanjana@example.com",
+        "password": "c74d97b01eae257e44aa9d5bade97baf" 
+      },
+      {
+        "first_name": "Kamlesh",
+        "last_name": "diwedi",
+        "email": "kamlesh@example.com",
+        "password": "c74d97b01eae257e44aa9d5bade97baf"
+      },
+      {
+        "first_name": "Rahul",
+        "last_name": "kanhayia",
+        "email": "rahul@example.com",
+        "password": "c74d97b01eae257e44aa9d5bade97baf" 
+      },
+      {
+        "first_name": "Rahul",
+        "last_name": "sharma",
+        "email": "ma@example.com",
+        "password": "c74d97b01eae257e44aa9d5bade97baf" 
+      }
+    ]
+  }
+  
